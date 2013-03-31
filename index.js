@@ -1,7 +1,7 @@
 function(){
   var jQuery = require('jquery');
   /* =============================================================
-   * bootstrap-collapse.js v2.1.0
+   * bootstrap-collapse.js v2.1.1
    * http://twitter.github.com/bootstrap/javascript.html#collapse
    * =============================================================
    * Copyright 2012 Twitter, Inc.
