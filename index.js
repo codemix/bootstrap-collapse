@@ -1,7 +1,7 @@
 function(){
   var jQuery = require('jquery');
   /* =============================================================
-   * bootstrap-collapse.js v2.0.1
+   * bootstrap-collapse.js v2.0.2
    * http://twitter.github.com/bootstrap/javascript.html#collapse
    * =============================================================
    * Copyright 2012 Twitter, Inc.
@@ -76,7 +76,9 @@ function(){
           [dimension](size || 'auto')
           [0].offsetWidth
   
-        this.$element.addClass('collapse')
+        this.$element[size ? 'addClass' : 'removeClass']('collapse')
+  
+        return this
       }
   
     , transition: function ( method, startEvent, completeEvent ) {
