@@ -1,4 +1,4 @@
-function(){
+(function(){
   var jQuery = require('jquery');
   /* =============================================================
    * bootstrap-collapse.js v2.3.1
@@ -167,4 +167,4 @@ function(){
     })
   
   }(jQuery);
-}()
+})()
