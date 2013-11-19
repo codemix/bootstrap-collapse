@@ -1,4 +1,4 @@
-(function(){
+;(function(){
   /* ========================================================================
    * Bootstrap: collapse.js v3.0.2
    * http://getbootstrap.com/javascript/#collapse
@@ -179,4 +179,4 @@
   
   }(jQuery);
   
-})()
+})();

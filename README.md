@@ -8,4 +8,4 @@ from the latest twitter/bootstrap master (roughly) every 6 hours. It is part of 
 project.
 
 
-Last build: v3.0.0 @ Tue Nov 19 2013 22:27:39 GMT+0000 (GMT)
+Last build: v3.0.0 @ Tue Nov 19 2013 22:29:55 GMT+0000 (GMT)
